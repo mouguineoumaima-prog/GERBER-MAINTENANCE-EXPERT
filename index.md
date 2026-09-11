@@ -2,21 +2,17 @@
 
 Bienvenue dans la documentation publique destinée à l’assistance technique des machines Gerber.
 
+# Documentation Gerber Maintenance
 
-## Rubriques
-
-- [Codes erreurs](codes-erreur.md)
-- [Diagnostic](diagnostic.md)
-- [Pièces PDR](pieces-pdr.md)
-- [Maintenance 6 mois](maintenance-6m.md)
-- [Maintenance 12 mois](maintenance-12m.md)
-
-## Documentation
+## Documentation technique
 
 - [52 Elect](52elect.pdf)
 - [Diagnostic](Diagnostic.pdf)
+- [System Service Manual](GT52507250SystemServiceManual.pdf)
+- [Get Acquainted C200MT](GetAcquainted%20C200MT.pdf)
 - [Parameters](Parameters.pdf)
 - [Pneumatique](Pneumatique.pdf)
+- [Codes erreurs Cutter GT 5250](les%20codes%20d'erreurs%20du%20cutter%20GT%205250.doc)
 
 ## Utilisation
 

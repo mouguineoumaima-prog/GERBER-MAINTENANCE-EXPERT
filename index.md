@@ -10,6 +10,13 @@ Bienvenue dans la documentation publique destinée à l’assistance technique d
 - maintenance-6m.md
 - maintenance-12m.md
 
+## Documentation
+
+- [52 Elect](52elect.pdf)
+- [Diagnostic](Diagnostic.pdf)
+- [Parameters](Parameters.pdf)
+- [Pneumatique](Pneumatique.pdf)
+
 ## Utilisation
 
 Sélectionnez une rubrique pour consulter les procédures disponibles.

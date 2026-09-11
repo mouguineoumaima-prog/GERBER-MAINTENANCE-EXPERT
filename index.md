@@ -2,13 +2,14 @@
 
 Bienvenue dans la documentation publique destinée à l’assistance technique des machines Gerber.
 
+
 ## Rubriques
 
-- codes-erreur.md
-- diagnostic.md
-- pieces-pdr.md
-- maintenance-6m.md
-- maintenance-12m.md
+- [Codes erreurs](codes-erreur.md)
+- [Diagnostic](diagnostic.md)
+- [Pièces PDR](pieces-pdr.md)
+- [Maintenance 6 mois](maintenance-6m.md)
+- [Maintenance 12 mois](maintenance-12m.md)
 
 ## Documentation
 
